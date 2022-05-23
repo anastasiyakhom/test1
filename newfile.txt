@@ -2,3 +2,5 @@ Nano Newfie.txt
 Artem
 Artur
 Olekh
+Ronaldo
+Fernando
